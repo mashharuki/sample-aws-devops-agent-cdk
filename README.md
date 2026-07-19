@@ -165,3 +165,4 @@ cdk destroy DevOpsAgentStack --profile monitoring
 - [GitHub kucherenko/jscpd](https://github.com/kucherenko/jscpd)
 - [React Doctor公式サイト](https://www.react.doctor/)
 - [Code Smellサイト](https://sourcemaking.com/design_patterns)
+- [Deepwiki sample-aws-devops-agent-cdk](https://deepwiki.com/mashharuki/sample-aws-devops-agent-cdk)
