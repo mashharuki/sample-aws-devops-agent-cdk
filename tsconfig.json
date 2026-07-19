@@ -6,7 +6,6 @@
       "es2020"
     ],
     "declaration": true,
-    "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
     "noImplicitThis": true,
@@ -21,7 +20,9 @@
     "strictPropertyInitialization": false,
     "typeRoots": [
       "./node_modules/@types"
-    ]
+    ],
+    "strict": true,  
+    "types": ["node"]  
   },
   "exclude": [
     "node_modules",

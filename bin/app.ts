@@ -12,6 +12,7 @@ import {
   DEPLOY_REGION,
   INTEGRATIONS,
 } from "../lib/constants";
+import { AwsSolutionsChecks, NagReportFormat } from 'cdk-nag';  
 
 const app = new cdk.App();
 
@@ -50,3 +51,9 @@ if (AGENT_SPACE_ID && hasIntegrations) {
     },
   });
 }
+
+// cdk-nagの設定
+cdk.Validations.of(app).addPlugins(new AwsSolutionsChecks(app, {
+  verbose: true,
+  writeSuppressionsToCloudFormation: true
+}));
