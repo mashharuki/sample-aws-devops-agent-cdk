@@ -166,3 +166,4 @@ cdk destroy DevOpsAgentStack --profile monitoring
 - [React Doctor公式サイト](https://www.react.doctor/)
 - [Code Smellサイト](https://sourcemaking.com/design_patterns)
 - [Deepwiki sample-aws-devops-agent-cdk](https://deepwiki.com/mashharuki/sample-aws-devops-agent-cdk)
+- [GitHub cdk-nag](https://github.com/cdklabs/cdk-nag)
