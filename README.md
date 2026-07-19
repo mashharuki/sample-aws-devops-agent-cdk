@@ -159,3 +159,9 @@ cdk destroy ServiceStack --profile service
 # Then the DevOpsAgentStack
 cdk destroy DevOpsAgentStack --profile monitoring
 ```
+
+## Reference
+- [Knip 公式サイト](https://knip.dev/)
+- [GitHub kucherenko/jscpd](https://github.com/kucherenko/jscpd)
+- [React Doctor公式サイト](https://www.react.doctor/)
+- [Code Smellサイト](https://sourcemaking.com/design_patterns)
