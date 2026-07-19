@@ -167,3 +167,5 @@ cdk destroy DevOpsAgentStack --profile monitoring
 - [Code Smellサイト](https://sourcemaking.com/design_patterns)
 - [Deepwiki sample-aws-devops-agent-cdk](https://deepwiki.com/mashharuki/sample-aws-devops-agent-cdk)
 - [GitHub cdk-nag](https://github.com/cdklabs/cdk-nag)
+- [DeepWiki cdk-nag](https://deepwiki.com/search/cdk-nag_352182b2-804d-4c07-960b-fc30b42a5539)
+- [zenn - AWS CDK｜セキュリティスキャンツール cdk-nag に入門しました](https://zenn.dev/ncdc/articles/7aa0d9928689c4)
